@@ -1,3 +1,3 @@
-module example.com/hello
+module github.com/tamaarine/testgoproject
 
 go 1.20
